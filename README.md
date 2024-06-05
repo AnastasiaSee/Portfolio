@@ -1,10 +1,10 @@
 # Portfolio
 There are some educational and self-implemented projects 
 
-|  * | Project name  | Description  | Stack  |
+| Project | Project name  | Description  | Stack  |
 |---|---|---|---|
-| 1  | [Research and improvement of gold recovery efficiency](https://github.com/AnastasiaSee/Portfolio/blob/main/gold_recovery_yandex/gold%20recovery.ipynb)  | It is necessary to predict concentration of gold during the gold recovery process  | Python, Pandas, Matplotlib, NumPy, Scikit-learn, exploratory data analysis, regression, custom metrics  |
-| 2  |   |   |   |
+| Yandex  | [Research and improvement of gold recovery efficiency](https://github.com/AnastasiaSee/Portfolio/blob/main/gold_recovery_yandex/gold%20recovery.ipynb)  | It is necessary to predict concentration of gold during the gold recovery process  | Python, Pandas, Matplotlib, NumPy, Scikit-learn, exploratory data analysis, regression, custom metrics  |
+| Yandex  | [Research of apartments advertisements for sale in St. Petersburg](https://github.com/AnastasiaSee/Portfolio/blob/main/gold_recovery_yandex/gold%20recovery.ipynb)  | It is necessary to do research work of apartments sell market in St. Petersburg| Python, Pandas, Matplotlib, NumPy, seaborn, exploratory data analysis, custom metrics  |
 | 3  |   |   |   |
 | 4  |   |   |   |
 |   |   |   |   |
