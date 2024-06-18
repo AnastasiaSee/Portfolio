@@ -5,7 +5,7 @@ There are some educational and self-implemented projects
 |---|---|---|---|
 | Yandex  | [Research and improvement of gold recovery efficiency](https://github.com/AnastasiaSee/Portfolio/blob/main/gold_recovery_yandex/gold%20recovery.ipynb)  | It is necessary to predict concentration of gold during the gold recovery process  | Python, Pandas, Matplotlib, NumPy, Scikit-learn, exploratory data analysis, regression, custom metrics  |
 | Yandex  | [Research of apartments advertisements for sale in St. Petersburg](https://github.com/AnastasiaSee/Portfolio/blob/main/Research%20of%20apartments%20advertisements_yandex/Research%20of%20apartments%20advertisements.ipynb)  | It is necessary to do research work of apartments sell market in St. Petersburg| Python, Pandas, Matplotlib, NumPy, seaborn, exploratory data analysis, custom metrics  |
-| Yandex  |   |It is necessary to forecast the number of taxi orders for hour|Python, Pandas, Scikit-learn, Statmodels|
+| Yandex  | [Forecast of taxi orders for next hour](https://github.com/AnastasiaSee/Portfolio/blob/main/Research%20of%20apartments%20advertisements_yandex/Research%20of%20apartments%20advertisements.ipynb)   |It is necessary to forecast the number of taxi orders for hour|Python, Pandas, Scikit-learn, Statmodels|
 | 4  |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
