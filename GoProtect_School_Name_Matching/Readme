@@ -1,1 +1,53 @@
-Hello
+# Sports Schools Name Standardization using Sentence-BERT
+
+## Objective
+The goal of this project is to standardize the names of sports schools using variations provided in different datasets. We use Sentence-BERT (SBERT) to create embeddings of these names and match variations to the standard names based on their cosine similarity.
+
+## Data
+- `Школы.csv`: Contains the standard names of sports schools.
+- `Примерное написание.csv`: Contains variations of the sports schools' names.
+
+## Steps
+1. Data Preparation
+2. Model Training
+3. Building Streamlit Application
+
+## Usage
+
+### Prerequisites
+- Python 3.x
+- Required libraries can be installed using `requirements.txt`
+
+### Installation
+1. Clone the repository:
+    ```bash
+    git clone <repository_url>
+    cd <repository_folder>
+    ```
+
+2. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the data preparation script:
+    ```bash
+    python data_preparation.py
+    ```
+
+4. Run the Streamlit app:
+    ```bash
+    streamlit run app.py
+    ```
+
+## Results
+The model achieved an accuracy of **0.87**.
+
+## Conclusion
+The project successfully standardized the names of sports schools using SBERT by matching variations to the standard names based on cosine similarity.
+
+## Dependencies
+- pandas
+- sentence-transformers
+- torch
+- streamlit
